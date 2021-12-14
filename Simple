@@ -4,5 +4,6 @@ public class Simple{
      System.out.println("Hello Peter!");
      System.out.println("Please come!");
      System.out.println("Please come!");
+     System.out.println("Please come!");
     }  
 }  
